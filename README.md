@@ -16,5 +16,5 @@ The purpose of this repository is to:
 
 ## Structure
 
-- Each day (if I have free time), I'll solve five coding challenges from CodeWars.
+- Each day (if I have free time), I'll solve one or more coding challenges from CodeWars.
 - Solutions will be worked with JavaScript language and kata difficulty level.
