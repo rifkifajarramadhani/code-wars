@@ -1,7 +1,6 @@
-// you are a square
-// https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript
-
 /*
+https://www.codewars.com/kata/54c27a33fb7da0db0100040e/train/javascript
+
 A square of squares
 You like building blocks. You especially like building blocks that are squares. And what you even like more, is to arrange them into a square of square building blocks!
 

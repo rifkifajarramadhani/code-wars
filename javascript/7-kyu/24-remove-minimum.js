@@ -1,7 +1,6 @@
-// remove first minimum
-// https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript
-
 /*
+https://www.codewars.com/kata/563cf89eb4747c5fb100001b/train/javascript
+
 The museum of incredibly dull things
 The museum of incredibly dull things wants to get rid of some exhibits. Miriam, the interior architect, comes up with a plan to remove the most boring exhibits. She gives them a rating, and then removes the one with the lowest rating.
 

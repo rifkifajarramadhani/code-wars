@@ -1,7 +1,6 @@
-// number of people in bus
-// https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript
-
 /*
+https://www.codewars.com/kata/5648b12ce68d9daa6b000099/train/javascript
+
 There is a bus moving in the city which takes and drops some people at each bus stop.
 
 You are provided with a list (or array) of integer pairs. Elements of each pair represent the number of people that get on the bus (the first item) and the number of people that get off the bus (the second item) at a bus stop.
