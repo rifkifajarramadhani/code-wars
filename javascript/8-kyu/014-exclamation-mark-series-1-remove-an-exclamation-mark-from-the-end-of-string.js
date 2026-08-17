@@ -17,3 +17,4 @@ const remove = (string) => {
   if (conv[(conv.length - 1)] == '!') conv.pop();
   return conv.join('');  
 }
+
