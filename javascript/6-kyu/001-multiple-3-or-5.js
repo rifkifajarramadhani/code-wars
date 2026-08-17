@@ -11,5 +11,6 @@ Note: If the number is a multiple of both 3 and 5, only count it once.
 */
 
 const solution = number => {
-    return number < 1 ? 0 : [...new Array(number).keys()].filter(n => n % 3 == 0 || n % 5 == 0).reduce((a, b) => a + b);
+  return number < 1 ? 0 : [...new Array(number).keys()].filter(n => n % 3 == 0 || n % 5 == 0).reduce((a, b) => a + b);
 }
+
